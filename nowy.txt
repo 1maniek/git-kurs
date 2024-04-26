@@ -1,3 +1,7 @@
+# Lista blokująca dla Pi-hole
+# Data utworzenia: 2024-04-26
+
+# Blokowanie domen reklamowych
 127.0.0.1 v.wpimg.pl
 127.0.0.1 s0.2mdn.net
 ma.wp.pl

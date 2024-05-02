@@ -9,3 +9,4 @@
 127.0.0.1 wp.pl
 127.0.0.1 https://v.wpimg.pl/
 127.0.0.1 https://ma.wp.pl/
+127.0.0.1 googleadeseervices.com

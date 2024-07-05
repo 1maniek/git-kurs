@@ -10,7 +10,7 @@
 127.0.0.1 v.wpimg.pl
 127.0.0.1 ma.wp.pl
 127.0.0.1 googleadeseervices.com
-127.0.0.1 tpc.googlesyndication.com/simgad
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 bezzobowiazan.com
 127.0.0.1 www.bybit.com
 127.0.0.1 tr-eu.adsmoloco.com

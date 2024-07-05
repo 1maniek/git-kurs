@@ -10,12 +10,12 @@
 127.0.0.1 https://v.wpimg.pl/
 127.0.0.1 https://ma.wp.pl/
 127.0.0.1 googleadeseervices.com
-tpc.googlesyndication.com/simgad/
-https://bezzobowiazan.com
-https://www.bybit.com
-https://tr-eu.adsmoloco.com
-https://www.tendermaets.com
-https://smidginandcompany.com
-https://bezzobowiazan.com
-https://marieburke-art.com
-https://www.tendermums.com
+127.0.0.1 tpc.googlesyndication.com/simgad/
+127.0.0.1 https://bezzobowiazan.com
+127.0.0.1 https://www.bybit.com
+127.0.0.1 https://tr-eu.adsmoloco.com
+127.0.0.1 https://www.tendermaets.com
+127.0.0.1 https://smidginandcompany.com
+127.0.0.1 https://bezzobowiazan.com
+127.0.0.1 https://marieburke-art.com
+127.0.0.1 https://www.tendermums.com
